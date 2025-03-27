@@ -6,8 +6,6 @@ Este projeto foi desenvolvido como parte da disciplina de **Desenvolvimento Web*
 ## 🛠 Tecnologias Utilizadas
 - **Linguagem:** Java
 - **Frameworks:** Spring Boot / Jakarta EE 
-- **Banco de Dados:** MySQL / PostgreSQL
-- **Frontend:** HTML, CSS, JavaScript
 - **Versionamento:** Git/GitHub
 
 ## 📂 Estrutura do Projeto
